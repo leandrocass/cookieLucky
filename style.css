@@ -1,10 +1,16 @@
 body {
-  width: 100vh;
   display: grid;
   place-items: center;
   height: 100vh;
   background: linear-gradient(49deg, rgba(25, 3, 97, 1) 0%, rgba(187, 0, 255, 1) 100%);
   background-repeat: no-repeat;
+}
+
+main {
+  border-radius: 0.6rem;
+  background-color:#fff;
+  filter: drop-shadow(hsl(0, 0%, 0%, 10%) 0 0.2rem 0.4rem);
+  text-align: center;
 }
 
 h1 {
