@@ -17,12 +17,14 @@ h1 {
   font-family: 'Montserrat', sans-serif;
   text-align: center;
   font-size: 24px;
+  color:#34355B ;
 }
 
 p {
   text-align: center;
   font-size: 15px;
   font-family: 'DM Sans', sans-serif;
+  color: #34355B;
 }
 
 button {
@@ -66,7 +68,6 @@ button {
     font-weight: 400;
     padding: 10px;
     animation: surge 2s;
-    il
   }
 
   & button {
