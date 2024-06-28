@@ -59,17 +59,7 @@ button {
   align-items: center;
   justify-content: center;
   filter: drop-shadow(hsla(0, 0%, 0%, 0.8) 0 20px 50px);
-
-  & p {
-    color: #34355B;
-    font-size: 24px;
-    font-family: 'dancing script', sans-serif;
-    background-color: #E4EDF1;
-    font-weight: 400;
-    padding: 10px;
-    animation: surge 2s;
-  }
-
+  
   & button {
     color: #fff;
     background-color: #FF9500;
@@ -147,4 +137,13 @@ button {
   display: none;
 }
 
-/*procure ascender uma vela em vez de amaldiçoar a escuridão
+.arreyados{
+  color: #34355B;
+  font-size: 24px;
+  font-family: 'dancing script', sans-serif;
+  background-color: #E4EDF1;
+  font-weight: 400;
+  padding: 10px;
+  animation: surge 2s;
+  max-width: 293px;
+}
